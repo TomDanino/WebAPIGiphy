@@ -1,0 +1,16 @@
+C:\Users\tomda\source\repos\WebAPIGiphy\WebAPIGiphy\bin\WebAPIGiphy.dll.config
+C:\Users\tomda\source\repos\WebAPIGiphy\WebAPIGiphy\bin\WebAPIGiphy.dll
+C:\Users\tomda\source\repos\WebAPIGiphy\WebAPIGiphy\bin\WebAPIGiphy.pdb
+C:\Users\tomda\source\repos\WebAPIGiphy\WebAPIGiphy\bin\Newtonsoft.Json.dll
+C:\Users\tomda\source\repos\WebAPIGiphy\WebAPIGiphy\bin\System.Net.Http.Formatting.dll
+C:\Users\tomda\source\repos\WebAPIGiphy\WebAPIGiphy\bin\System.Web.Http.dll
+C:\Users\tomda\source\repos\WebAPIGiphy\WebAPIGiphy\bin\System.Web.Http.WebHost.dll
+C:\Users\tomda\source\repos\WebAPIGiphy\WebAPIGiphy\bin\Newtonsoft.Json.xml
+C:\Users\tomda\source\repos\WebAPIGiphy\WebAPIGiphy\bin\System.Net.Http.Formatting.xml
+C:\Users\tomda\source\repos\WebAPIGiphy\WebAPIGiphy\bin\System.Web.Http.xml
+C:\Users\tomda\source\repos\WebAPIGiphy\WebAPIGiphy\bin\System.Web.Http.WebHost.xml
+C:\Users\tomda\source\repos\WebAPIGiphy\WebAPIGiphy\obj\Debug\WebAPIGiphy.csproj.AssemblyReference.cache
+C:\Users\tomda\source\repos\WebAPIGiphy\WebAPIGiphy\obj\Debug\WebAPIGiphy.csproj.CoreCompileInputs.cache
+C:\Users\tomda\source\repos\WebAPIGiphy\WebAPIGiphy\obj\Debug\WebAPIGiphy.csproj.CopyComplete
+C:\Users\tomda\source\repos\WebAPIGiphy\WebAPIGiphy\obj\Debug\WebAPIGiphy.dll
+C:\Users\tomda\source\repos\WebAPIGiphy\WebAPIGiphy\obj\Debug\WebAPIGiphy.pdb
